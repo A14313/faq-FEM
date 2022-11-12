@@ -91,6 +91,26 @@ body {
   padding-block: 2em;
 }
 
+.card > * {
+  width: 90%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.card__img {
+  position: relative;
+}
+
+.card__img img[visible] {
+  width: 70%;
+  max-width: 200px;
+  position: absolute;
+}
+
+.card__img img[hidden] {
+  visibility: hidden;
+}
+
 .card__content {
   justify-content: center;
   align-items: space-between;
@@ -99,12 +119,18 @@ body {
 }
 
 .card__content h1 {
+  text-align: center;
   margin-block: 1.2em;
   line-height: 1;
 }
 
 .card__faqs {
+  cursor: pointer;
   position: relative;
+}
+
+.card__faqs + .card__faqs {
+  margin-block-start: 1em;
 }
 
 .card__faqs:after {
@@ -134,7 +160,7 @@ body {
   color: var(--clr-text-dark-primary);
   transition: max-height var(--transition-speed) ease;
   max-height: 0;
-  margin-block-end: 2em;
+  margin-block: 1em;
   overflow: hidden;
 }
 

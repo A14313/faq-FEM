@@ -32,14 +32,7 @@ body {
     border-radius: 2em;
     padding-block: 2em;
 
-
-
-
-
-
     & > * {
-
-
         width: 90%;
         max-width: 1200px;
         margin-inline: auto;
@@ -48,17 +41,27 @@ body {
     &__img {
         position: relative;
 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
 
-        & img[visible] {
+
+        &--illustration {
             position: absolute;
-            
-            width: 70%;
+
+            width: 90%;
             max-width: 200px;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -140px);
 
         }
 
-        & img[hidden] {
-            visibility: hidden;
+        &--pattern {
+            width: 90%;
+            max-width: 200px;
+            margin-block-start: -10px;
         }
     }
 
@@ -74,6 +77,7 @@ body {
             line-height: 1;
             margin-block: 1.2em;
             text-align: center;
+            font-size: 30px;
         }
     }
 
@@ -113,7 +117,7 @@ body {
         &__answer {
             font-size: var(--fs-500);
             color: var(--clr-text-dark-primary);
-            margin-block: 1em;
+            margin-block: .87em;
 
             transition: max-height var(--transition-speed) ease;
             max-height: 0;

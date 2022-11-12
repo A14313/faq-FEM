@@ -1,4 +1,4 @@
-4368
+4369
 97C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\tslib\tslib.html133126963834309022 0
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\caniuse-lite\data\features\tls1-1.js133126964471354550 0
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\msgpackr-extract\src\.vs\src133126963833059889 1
@@ -55,7 +55,7 @@
 106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\terser\lib\utils\index.js133126964155061889 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\posthtml\node_modules\posthtml-parser133126963956872757 1
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\v8-compile-cache\README.md133126963903456468 0
-72C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist133127248762929592 1
+72C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist133127326407501177 1
 121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@swc\helpers\src\_is_native_function.mjs133126964292361858 0
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\caniuse-lite\data\regions\BA.js133126964171806958 0
 113C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\electron-to-chromium\versions.js133126963987119939 0
@@ -84,7 +84,7 @@
 138C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133126963833519594 0
 75C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\LICENSE133126881891041865 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\nth-check\lib\esm\package.json133126964007757699 0
-82C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\index.html133127246199235572 0
+82C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\index.html133127322513401646 0
 104C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\src\public133126964303700027 1
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\caniuse-lite\data\regions\GT.js133126964423854171 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\test\EntryRequest.test.js133126964215680283 0
@@ -147,7 +147,7 @@
 85C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@swc133126963811913872 1
 170C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133126964251909405 0
 92C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\yaml\seq.js133126964151233517 0
-86C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\scss\main.scss133127248761198764 0
+86C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\scss\main.scss133127326405808130 0
 166C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133126964273591765 1
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\runtime-service-worker\LICENSE133126963875461563 0
 89C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\scss\_colors.scss133127152094136022 0
@@ -166,7 +166,7 @@
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\svgo\lib\svgo\tools.js133126964241853201 0
 142C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\test\fixtures\common-targets-ignore\package.json133126964363307328 0
 89C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\has-flag133126963889288758 1
-90C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.6f302cba.js133127248762500656 0
+90C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.6f302cba.js133127326407471193 0
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@trysound\sax\package.json133126963875397726 0
 89C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\src\js\faqs-toggle.js133127174705299293 0
 98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\terser\PATRONS.md133126964196873203 0
@@ -1303,6 +1303,7 @@
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\svgo\plugins\collapseGroups.js133126964043298882 0
 102C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\is-arrayish\README.md133126963841082546 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\svgo\lib\svgo\css-style-declaration.js133126964112899318 0
+103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\bg-pattern-mobile.e49f2186.svg133127326407247406 0
 137C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133126964173622651 1
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\svgo\plugins\convertPathData.js133126964051543719 0
 115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\mdn-data\css\selectors.schema.json133126964055828404 0
@@ -1804,7 +1805,7 @@
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@swc\helpers\lib\_object_without_properties.js133126964191931510 0
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\caniuse-lite\data\regions\UY.js133126964474794201 0
 105C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\node-addon-api\nothing.c133126963830234577 0
-95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.b10d73a7.css.map133127248762919608 0
+95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.b10d73a7.css.map133127326407205366 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\node-addon-api\package-support.json133126964043888505 0
 123C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\lmdb\node_modules\node-addon-api\README.md133126964055565910 0
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\node-resolver-core\test\fixture\nested133126964237889771 1
@@ -4158,7 +4159,7 @@
 124C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\test\fixtures\config\.parcelrc133126964031134070 0
 134C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133126964040507784 0
 114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\src\applyRuntimes.js133126964051281409 0
-118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\illustration-woman-online-mobile.00ea2fd9.svg133127248762879608 0
+118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\illustration-woman-online-mobile.00ea2fd9.svg133127326407328455 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\src\AssetGraph.js133126964103259243 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\src\buildCache.js133126964151033629 0
 120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133126964207402214 0
@@ -4227,7 +4228,7 @@
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lmdb\lmdb-win32-x64\index.js133126963830224588 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lmdb\lmdb-win32-x64\node.abi102.node133126964018352123 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lmdb\lmdb-win32-x64\node.abi108.node133126964041491941 0
-101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\icon-arrow-down.247b94e4.svg133127248762400698 0
+101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\icon-arrow-down.247b94e4.svg133127326407135419 0
 98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lezer\lr\LICENSE133126963831850484 0
 100C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lezer\lr\README.md133126963973992360 0
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\@lezer\lr\dist\constants.d.ts133126964000641373 0
@@ -4364,6 +4365,6 @@
 96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\node_modules\.bin\terser.ps1133126964479815829 0
 92C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\faq-FEM.59712999.js133127171269311869 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\illustration-woman-online-desktop.69cdd7e3.svg133126984977688930 0
-94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.6f302cba.js.map133127248762520626 0
-91C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.b10d73a7.css133127248762879608 0
-83C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.html133127248762450669 0
+94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.6f302cba.js.map133127326407491175 0
+91C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.b10d73a7.css133127326407185390 0
+83C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\faq-FEM\dist\index.html133127326407155415 0

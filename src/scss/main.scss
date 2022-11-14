@@ -45,8 +45,8 @@ body {
             content: url("../images/illustration-box-desktop.svg");
             display: block;
             position: absolute;
-            left: -100px;
-            top: 120px;
+            left: -99px;
+            top: 125px;
             transform: translate(0,0);
             z-index: 9;
         }
@@ -57,8 +57,6 @@ body {
     background-color: #FFF;
     border-radius: 2em;
     padding-block: 2em;
-
-
     box-shadow: 0 10px 20px 3px rgba(0,0,0,.3);
 
 
@@ -131,24 +129,17 @@ body {
                 position: absolute;
                 width: 100%;
                 max-width: 400px;
-                left: -50px;
+                left: -65px;
                 top: 40px;
                 transform: translate(0, 0);
-            }
-
-            &--box[desktop] {
-                position: absolute;
-                max-width: 400px;
-                left: -100px;
-                top: 40px;
-                transform: translate(0,0);
-                display: none;
             }
 
             &--pattern[desktop] {
                 width: 100%;
                 max-width: 400px;
-                margin-inline-start: -100px;
+                margin-inline-start: -200px;
+                margin-block-start: -5px;
+                transform: scale(1.4);
             }
         }
     }
@@ -190,12 +181,14 @@ body {
         &__question {
             font-size: var(--fs-500);
             color: var(--clr-text-dark-primary-lighter);
-
-
             display: flex;
             justify-content: space-between;
             align-items: center;
-
+            transition: color var(--transition-speed) ease;
+            
+            &:hover {
+                color: var(--clr-accent);
+            }
 
             .arrow {
                 transition: transform var(--transition-speed) ease;

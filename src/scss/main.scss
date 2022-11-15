@@ -4,7 +4,9 @@
 @import 'resets';
 
 :root {
-    --transition-speed: 1000ms;
+    --transition-speed-slow: 1000ms;
+    --transition-speed-fast: 500ms;
+    --transition-speed-faster: 250ms;
 }
 
 
@@ -21,10 +23,39 @@ body {
     margin-inline: auto;
 }
 
-.main {
+.viewport-checker {
     display: grid;
-    place-items: center;
+    place-content: center;
     min-height: 100vh;
+    
+    & h1 {
+        color: var(--clr-text-dark-title-primary);
+        font-size: var(--fs-1000);
+        line-height: 1.2;
+    }
+    
+    & p {
+        color: var(--clr-text-dark-primary);
+        font-size: var(--fs-800);
+        margin-block: 1.3em;
+        line-height: 1.7;
+    }
+    
+    
+
+    @include mediaQuery(xsm) {
+        display: none;
+    }
+}
+
+.main {
+    display: none;
+
+    @include mediaQuery(xsm) {
+        display: grid;
+        place-items: center;
+        min-height: 100vh;
+    }
 }
 
 .card-container {
@@ -40,7 +71,7 @@ body {
     @include mediaQuery(med) {
         max-width: 700px;
         width: 100%;
-        
+
         &::before {
             content: url("../images/illustration-box-desktop.svg");
             display: block;
@@ -156,7 +187,7 @@ body {
             line-height: 1;
             margin-block: 1.2em;
             text-align: center;
-            font-size: 30px;
+            font-size: var(--fs-950);
         }
     }
 
@@ -184,14 +215,14 @@ body {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            transition: color var(--transition-speed) ease;
-            
+            transition: color var(--transition-speed-faster) ease;
+
             &:hover {
                 color: var(--clr-accent);
             }
 
             .arrow {
-                transition: transform var(--transition-speed) ease;
+                transition: transform var(--transition-speed-slow) ease;
             }
 
         }
@@ -201,7 +232,7 @@ body {
             color: var(--clr-text-dark-primary-lighter);
             margin-block: .87em;
 
-            transition: max-height var(--transition-speed) ease;
+            transition: max-height var(--transition-speed-fast) ease;
             max-height: 0;
             overflow: hidden;
 
